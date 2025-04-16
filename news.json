@@ -1,4 +1,6 @@
 {
+  "title": "welcome to tablegrounds!"
   "image": "https://raw.githubusercontent.com/UnusualGravy/tablegrounds-web/refs/heads/main/content/fanfare_gold.png",
   "url": "https://www.google.com"
+  "text-content" : "hello there! i am **currently** ~~testing~~ a *markdown* type of text."
 }
