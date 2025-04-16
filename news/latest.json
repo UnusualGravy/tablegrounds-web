@@ -1,5 +1,7 @@
 {
    "title": "welcome to tablegrounds",
    "image": "https://raw.githubusercontent.com/Kompreya/example-news-sandbox/main/bestiary_book.png",
-   "url": "https://www.curseforge.com/"
+   "url": "https://www.curseforge.com/",
+   "text-content": "hello there! i am **currently** ~~testing~~ a *markdown* type of text."
 }
+
